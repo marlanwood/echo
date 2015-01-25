@@ -5,7 +5,7 @@
     <script src="echo.js">document.write(echo());</script>
   </head>
   <body>
-    See consoles.
+    See console.
 	<script src="echo.js">document.write(echo());</script>
   </body>
 </html>
